@@ -144,3 +144,4 @@ src_data/*
 *.7z
 *.geojson
 
+airbnb_env/*
